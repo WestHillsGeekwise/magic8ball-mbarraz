@@ -1,1 +1,19 @@
 /*use this file to style your project however you like*/
+
+body {
+    background-image: url("http://planetoftheweb.com/i/8ball/empty.png");
+    background-size: 675px 675px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-color: black;
+    color: white;
+}
+.header {
+    text-align: center;
+    font-size: 2em;
+}
+.button {
+    text-align: center;
+    margin: 2em;
+}
